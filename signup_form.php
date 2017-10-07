@@ -73,13 +73,13 @@
 						<input type="text" id="mno" name="mno" onkeyup="validateForm(this)"  required />                      
                    </section>
                    <section>
-						<label>College Name:</label>
+						<label>Gender:</label>
 						<span class="highlight"></span>
 						<span class="bar"></span>
 						<input type="text" id="clg" name="clg"  onkeyup="validateForm(this)" required />						                                            
                    </section>
                    <section>
-						<label>Year:</label>
+						<label>Age:</label>
 						<span class="highlight"></span>
 						<span class="bar"></span>
 						<input type="number" id="year" name="year" onkeyup="validateForm(this)" required />  
